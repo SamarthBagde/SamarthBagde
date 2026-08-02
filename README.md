@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Samarth Bagde</h1>
-<h3 align="center">A passionate Software Developer</h3>
-
-- 🔭 Currently working with the **MERN Stack** and exploring **DevOps**
-- 🌱 Learning more about **Software Engineering practices**
-- 📫 Reach me at: **bagdesamarth70@gmail.com**
+<h1 align="center">
+  Hi 👋, I'm Samarth
+</h1>
+ 
+<h3 align="center">
+  Software Developer • Backend Engineer
+</h3>
 
 ---
 
@@ -47,9 +48,4 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
----
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthbagde&show_icons=true&theme=default&locale=en" alt="Samarth Bagde GitHub Stats" />
-</p>
